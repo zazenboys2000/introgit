@@ -3,3 +3,4 @@ Git‚Ì—ûK‚ğ‚µ‚Ä‚¢‚­
 ‚Ü‚½•ÏX‚ğ‚·‚é
 second.txt‚Æ•¹‚¹‚Ä‚Ü‚½‚Ü‚½•ÏX‚·‚é
 git status
+git diff
